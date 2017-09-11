@@ -11,7 +11,7 @@ public class Hello {
     }
 
     public static void goldLeader(){
-
+    System.out.println("Loosen up!");
     }
     public static void redLeader(){
 
