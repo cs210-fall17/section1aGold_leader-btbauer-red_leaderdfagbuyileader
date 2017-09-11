@@ -7,7 +7,7 @@ public class Hello {
 	callSign();
     }
     public static void callSign(){
-
+	System.out.println("Lock S-foils in attack position");
     }
 
     public static void goldLeader(){
