@@ -14,6 +14,7 @@ public class Hello {
     System.out.println("Loosen up!");
     }
     public static void redLeader(){
+	System.out.println("I copy, captain!");
 
     }
 
