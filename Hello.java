@@ -1,6 +1,6 @@
 
 public class Hello {
-    public stacic void main(String[] args){
+    public static void main(String[] args){
 
 	goldLeader();
 	redLeader();
